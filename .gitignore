@@ -1,0 +1,11 @@
+# Large generated files
+data/engagement_log.csv
+data/marketing.db
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env

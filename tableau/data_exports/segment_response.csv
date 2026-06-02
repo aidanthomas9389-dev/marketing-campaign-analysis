@@ -1,0 +1,14 @@
+Education,Marital_Status,total_customers,total_acceptances,response_rate
+PhD,Divorced,52,35,0.112
+PhD,Single,98,61,0.104
+Master,Single,75,44,0.098
+PhD,Married,192,102,0.089
+Graduation,Divorced,119,58,0.081
+Graduation,Single,252,123,0.081
+Graduation,Together,286,125,0.073
+Master,Married,138,58,0.07
+PhD,Together,117,49,0.07
+Graduation,Married,433,169,0.065
+2n Cycle,Married,81,29,0.06
+Master,Together,106,35,0.055
+2n Cycle,Together,57,13,0.038
